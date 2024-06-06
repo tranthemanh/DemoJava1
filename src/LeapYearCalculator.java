@@ -15,7 +15,7 @@ public class LeapYearCalculator {
                     System.out.printf("%d is not leap year", year);
                 }
             }else {
-                System.out.printf("%d is a leap year", year);
+                System.out.printf("%d is  leap year", year);
             }
         }else {
             System.out.printf("%d is not leap year", year);
